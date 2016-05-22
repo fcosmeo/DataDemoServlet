@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Data Demo App</title>
   </head>
   <body>
-  $END$
+    <a href="connected">Test Database Connection</a>
   </body>
 </html>
